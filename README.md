@@ -2,7 +2,7 @@
 
 ## About Me :wave:
 
-Hey there! :wave: My name is Giovanni. I'm a 19-year-old and currently reside in Rio Grande do Sul, Brasil. I'm working at Coopersystem as a Mobile Developer, using React Native and I'm a content creator on Instagram! I am a Computer Science student at Unilasalle.
+Hey there! :wave: My name is Giovanni. I'm a 19-year-old and currently reside in Rio Grande do Sul, Brasil.
 
 My journey began with studying Python🐍, where I gained substantial knowledge in the language. I then delved deeper into Data Science using Python, and I am currently pursuing a Bachelor’s degree in Computer Science💻 at La Salle University while studying Data Engineering.
 
